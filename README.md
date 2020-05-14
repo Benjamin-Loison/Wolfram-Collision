@@ -1,4 +1,4 @@
-Wolfram collision
+# Wolfram collisions
 
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/Wolfram-Collision/master/Pictures/0.jpg)
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/Wolfram-Collision/master/Pictures/1.jpg)
