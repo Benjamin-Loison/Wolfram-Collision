@@ -1,5 +1,7 @@
 # Wolfram collisions
 
+Work on collisions continued in LemnosLife: https://github.com/Benjamin-Loison/LemnosLife
+
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/Wolfram-Collision/master/Pictures/0.jpg)
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/Wolfram-Collision/master/Pictures/1.jpg)
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/Wolfram-Collision/master/Pictures/2.jpg)
